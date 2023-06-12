@@ -18,10 +18,13 @@ Lo que me distingue es mi capacidad para combinar experiencia técnica con una m
 - Node
 - PHP
 - Express
-- React 
-- Native
+- React Native
 - MySQL
-- Git.
+- Git
+- VUE
+- Sequelize
+- CSS
+- HTML
 
 ### Projects
 
