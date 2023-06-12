@@ -17,7 +17,7 @@ JavaScript, React, Node, PHP, Express, React Native, MySQL, Git.
 
 ### Projects
 
-BeatÑata: https://beatnata.github.io/Beat-ata/
+BeatÑata: https://beatnata.github.io/Beat-ata/ <br/>
 Findy: https://appfindy.netlify.app/
 MediaFast: https://mediafast.netlify.app/
 
