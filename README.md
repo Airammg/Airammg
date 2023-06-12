@@ -27,10 +27,12 @@ Lo que me distingue es mi capacidad para combinar experiencia técnica con una m
 - HTML
 
 ### Projects
-
-BeatÑata: https://beatnata.github.io/Beat-ata/ <br/>
-Findy: https://appfindy.netlify.app/ <br/>
-MediaFast: https://mediafast.netlify.app/
+<h3>BeatÑata</h3>
+https://beatnata.github.io/Beat-ata/ <br/>
+<h3>Findy</h3>
+https://appfindy.netlify.app/ <br/>
+<h3>MediaFast</h3>
+https://mediafast.netlify.app/
 
 <!--
 **Airammg/Airammg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
