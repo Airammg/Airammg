@@ -13,7 +13,15 @@ Tras años en el sector de la hostelería, dejo mi trabajo para seguir mi pasió
 Lo que me distingue es mi capacidad para combinar experiencia técnica con una mentalidad centrada en el cliente. Basándome en mi experiencia en la industria de la hostelería, entiendo la importancia de brindar experiencias excepcionales al usuario y mantener un enfoque centrado en el cliente. Esta perspectiva me permite desarrollar soluciones web que no solo cumplen con los requisitos técnicos, sino que también superan las expectativas de los usuarios.
 
 ### Technologies
-JavaScript, React, Node, PHP, Express, React Native, MySQL, Git.
+- JavaScript 
+- React
+- Node
+- PHP
+- Express
+- React 
+- Native
+- MySQL
+- Git.
 
 ### Projects
 
