@@ -16,11 +16,6 @@ Lo que me distingue es mi capacidad para combinar experiencia técnica con una m
 JavaScript, React, Node, PHP, Express, React Native, MySQL, Git.
 
 
-### Find me
-
-![linkedin](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
-
 <!--
 **Airammg/Airammg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
