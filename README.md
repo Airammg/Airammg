@@ -15,6 +15,11 @@ Lo que me distingue es mi capacidad para combinar experiencia técnica con una m
 ### Technologies
 JavaScript, React, Node, PHP, Express, React Native, MySQL, Git.
 
+### Projects
+
+BeatÑata: https://beatnata.github.io/Beat-ata/
+Findy: https://appfindy.netlify.app/
+MediaFast: https://mediafast.netlify.app/
 
 <!--
 **Airammg/Airammg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
