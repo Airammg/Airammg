@@ -27,11 +27,11 @@ Lo que me distingue es mi capacidad para combinar experiencia técnica con una m
 - HTML
 
 ### Projects
-<h3>BeatÑata</h3>
+<h6>BeatÑata</h6>
 https://beatnata.github.io/Beat-ata/ <br/>
-<h3>Findy</h3>
+<h6>Findy</h6>
 https://appfindy.netlify.app/ <br/>
-<h3>MediaFast</h3>
+<h6>MediaFast</h6>
 https://mediafast.netlify.app/
 
 <!--
